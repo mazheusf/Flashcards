@@ -1,0 +1,19 @@
+{
+  "name": "Flashcards",
+  "short_name": "Flashcards",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f8",
+  "theme_color": "#263b58",
+  "lang": "pt-BR",
+  "description": "Flashcards com revisão espaçada e backup local.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
